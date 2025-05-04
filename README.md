@@ -10,11 +10,6 @@ A user-friendly web application built with **React.js** that allows individuals 
 - [⚙️ Features](#-features)
 - [📊 Inputs & Labels](#-inputs--labels)
 - [🖥️ Tech Stack](#-tech-stack)
-- [🚀 Getting Started](#-getting-started)
-- [📸 Screenshots](#-screenshots)
-- [🧠 Future Enhancements](#-future-enhancements)
-- [📄 License](#-license)
-
 ---
 
 ## 🔍 Overview
