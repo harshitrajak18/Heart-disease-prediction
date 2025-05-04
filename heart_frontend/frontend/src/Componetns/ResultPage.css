@@ -1,0 +1,38 @@
+.result-container {
+    padding: 2rem;
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .result-card {
+    margin: 1.5rem auto;
+    padding: 2rem;
+    max-width: 500px;
+    border-radius: 12px;
+    font-size: 1.1rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  }
+  
+  .result-card.high {
+    background-color: #ffe0e0;
+    color: #d10000;
+  }
+  
+  .result-card.low {
+    background-color: #e0ffe6;
+    color: #007f00;
+  }
+  
+  .summary-list {
+    list-style: none;
+    padding: 0;
+    margin: 1rem auto;
+    max-width: 600px;
+    text-align: left;
+  }
+  
+  .summary-list li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #ccc;
+  }
+  
